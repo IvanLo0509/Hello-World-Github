@@ -1,6 +1,6 @@
 # Hello-World-Github
 this line is added from feature branch
 
-Hello, I'm Lo Hei Chun from CUHK
+Hello, I'm Lo Hei Chun
 
-My student Number is 1155000000
+My student number is 1155142698
